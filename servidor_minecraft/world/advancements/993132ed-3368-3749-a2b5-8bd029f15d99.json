@@ -521,8 +521,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-03-27 19:47:30 +0000",
       "minecraft:skeleton": "2025-03-14 22:44:51 +0000",
       "minecraft:spider": "2025-03-14 23:22:29 +0000",
+      "minecraft:wither_skeleton": "2025-03-27 19:47:12 +0000",
       "minecraft:zombie": "2025-03-14 23:08:34 +0000",
       "minecraft:creeper": "2025-03-18 18:32:24 +0000"
     },
@@ -2756,6 +2758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-27 19:51:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-27 19:39:16 +0000",
@@ -2775,6 +2783,18 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-27 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-27 19:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-03-27 19:45:50 +0000"
@@ -2784,6 +2804,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-27 19:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-27 19:49:52 +0000"
     },
     "done": true
   },
