@@ -526,7 +526,8 @@
       "minecraft:spider": "2025-03-14 23:22:29 +0000",
       "minecraft:wither_skeleton": "2025-03-27 19:47:12 +0000",
       "minecraft:zombie": "2025-03-14 23:08:34 +0000",
-      "minecraft:creeper": "2025-03-18 18:32:24 +0000"
+      "minecraft:creeper": "2025-03-18 18:32:24 +0000",
+      "minecraft:drowned": "2025-03-27 20:51:05 +0000"
     },
     "done": false
   },
@@ -2777,6 +2778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-27 20:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-27 19:39:15 +0000"
@@ -2810,6 +2817,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-27 19:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-27 20:48:11 +0000"
     },
     "done": true
   },
