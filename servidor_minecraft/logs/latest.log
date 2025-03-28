@@ -73,3 +73,15 @@
 [18:26:27] [Server thread/INFO]: Beniwiner lost connection: Disconnected
 [18:26:27] [Server thread/INFO]: Beniwiner left the game
 [18:26:38] [Async Chat Thread - #2/INFO]: [Not Secure] <orxaatita> -335 -72
+[18:33:10] [Server thread/INFO]: orxaatita lost connection: Kicked by an operator
+[18:33:10] [Server thread/INFO]:  [GORDA] orxaatita left the game
+[18:33:10] [Server thread/INFO]: Kicked  [GORDA] orxaatita: Kicked by an operator
+[18:33:15] [User Authenticator #4/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
+[18:33:16] [Server thread/INFO]:  [GORDA] orxaatita joined the game
+[18:33:16] [Server thread/INFO]: orxaatita[/127.237.225.253:43863] logged in with entity id 10537 at ([world]-360.5964763094067, 64.0, -40.345880246927486)
+[18:36:07] [Server thread/INFO]: The game is frozen
+[18:36:35] [Server thread/INFO]: Incorrect argument for command
+tick 120<--[HERE]
+[18:36:43] [Server thread/INFO]: The game is running normally
+[18:37:43] [Server thread/INFO]: The game is frozen
+[18:37:50] [Server thread/INFO]: The game is running normally
