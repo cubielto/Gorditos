@@ -87,3 +87,9 @@ tick 120<--[HERE]
 [18:37:50] [Server thread/INFO]: The game is running normally
 [18:38:25] [Server thread/INFO]: The game is frozen
 [18:38:29] [Server thread/INFO]: The game is running normally
+[18:55:31] [Server thread/INFO]: orxaatita lost connection: por bot
+[18:55:31] [Server thread/INFO]:  [GORDA] orxaatita left the game
+[18:55:31] [Server thread/INFO]: Kicked  [GORDA] orxaatita: por bot
+[18:55:36] [User Authenticator #5/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
+[18:55:37] [Server thread/INFO]:  [GORDA] orxaatita joined the game
+[18:55:37] [Server thread/INFO]: orxaatita[/127.237.225.253:37941] logged in with entity id 13538 at ([world]-360.00781443057264, 64.0, -56.301750112491476)
