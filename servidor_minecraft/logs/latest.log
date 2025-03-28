@@ -1,67 +1,55 @@
-[19:26:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[19:26:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[19:26:43] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[19:26:44] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[19:26:44] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[17:16:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[17:16:56] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
+[17:16:56] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:16:57] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[17:16:57] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - TradePro (2.0)
-[19:26:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:26:53] [ServerMain/INFO]: Loaded 1290 recipes
-[19:26:53] [ServerMain/INFO]: Loaded 1399 advancements
-[19:26:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[19:26:53] [Server thread/INFO]: Loading properties
-[19:26:53] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[19:26:54] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[19:26:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:26:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:26:56] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[19:26:56] [Server thread/INFO]: Default game type: SURVIVAL
-[19:26:56] [Server thread/INFO]: Generating keypair
-[19:26:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:26:57] [Server thread/INFO]: Using epoll channel type
-[19:26:57] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[19:26:57] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[19:26:57] [Server thread/INFO]: [TradePro] Loading server plugin TradePro v2.0
-[19:26:57] [Server thread/INFO]: [TradePro] Failed to hook into worldguard. Ignore this if you don't have worldguard.
-[19:26:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:26:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:26:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:26:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:26:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:26:57] [Server thread/INFO]: Preparing level "world"
-[19:26:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:27:00] [Server thread/INFO]: Time elapsed: 2187 ms
-[19:27:00] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:27:02] [Server thread/INFO]: Time elapsed: 2410 ms
-[19:27:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:27:03] [Server thread/INFO]: Time elapsed: 206 ms
-[19:27:03] [Server thread/INFO]: [TradePro] Enabling TradePro v2.0
-[19:27:03] [Server thread/INFO]: [TradePro] config.yml already exists, skipping creation.
-[19:27:03] [Server thread/INFO]: [TradePro] lang.yml already exists, skipping creation.
-[19:27:03] [Server thread/INFO]: [TradePro] gui.yml already exists, skipping creation.
-[19:27:03] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Detected Minecraft version: 121
-[19:27:03] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Sounds loaded successfully!
-[19:27:03] [Server thread/INFO]: [TradePro] TradePro has started successfully!
-[19:27:03] [Server thread/INFO]: [spark] Starting background profiler...
-[19:27:04] [Server thread/INFO]: Done preparing level "world" (6.660s)
-[19:27:04] [Server thread/INFO]: Running delayed init tasks
-[19:27:04] [Server thread/INFO]: §a[TradePro] Sounds loaded successfully!
-[19:27:05] [Craft Scheduler Thread - 3 - TradePro/INFO]: [TradePro] Plugin is up to date.
-[19:27:05] [Server thread/INFO]: [TradePro] Web panel is disabled in config.yml
-[19:27:05] [Server thread/INFO]: Done (24.166s)! For help, type "help"
-[19:27:05] [Server thread/INFO]: Timings Reset
-[19:30:22] [User Authenticator #0/INFO]: UUID of player Cubart is 230e4467-5c47-3a77-a336-298bd99cad67
-[19:30:24] [Server thread/INFO]:  [GORDO] Cubart  joined the game
-[19:30:24] [Server thread/INFO]: Cubart[/127.81.173.98:34931] logged in with entity id 28 at ([world]521.3322467584262, 64.0, -910.2654884653366)
-[19:31:14] [User Authenticator #0/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
-[19:31:16] [Server thread/INFO]:  [GORDA] orxaatita joined the game
-[19:31:16] [Server thread/INFO]: orxaatita[/127.237.225.253:52629] logged in with entity id 467 at ([world]-310.3604969722067, 64.0, -79.58986755796019)
-[19:39:15] [Server thread/INFO]:  [GORDA] orxaatita has made the advancement [We Need to Go Deeper]
-[19:45:50] [Server thread/INFO]:  [GORDA] orxaatita has made the advancement [A Terrible Fortress]
-[19:49:52] [Server thread/INFO]:  [GORDA] orxaatita has made the advancement [Into Fire]
-[19:50:22] [Server thread/INFO]:  [GORDA] orxaatita was slain by Wither Skeleton
-[19:56:41] [Server thread/INFO]:  [GORDA] orxaatita was slain by Wither Skeleton
-[20:15:00] [Server thread/INFO]:  [GORDA] orxaatita was slain by Zombie
-[20:20:43] [Server thread/INFO]: Cubart lost connection: Disconnected
-[20:20:43] [Server thread/INFO]:  [GORDO] Cubart  left the game
-[21:11:34] [Server thread/INFO]: orxaatita lost connection: Disconnected
-[21:11:34] [Server thread/INFO]:  [GORDA] orxaatita left the game
+[17:17:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:17:06] [ServerMain/INFO]: Loaded 1290 recipes
+[17:17:06] [ServerMain/INFO]: Loaded 1399 advancements
+[17:17:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:17:07] [Server thread/INFO]: Loading properties
+[17:17:07] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[17:17:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:17:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:17:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:17:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[17:17:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:17:09] [Server thread/INFO]: Generating keypair
+[17:17:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:17:10] [Server thread/INFO]: Using epoll channel type
+[17:17:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:17:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:17:10] [Server thread/INFO]: [TradePro] Loading server plugin TradePro v2.0
+[17:17:10] [Server thread/INFO]: [TradePro] Failed to hook into worldguard. Ignore this if you don't have worldguard.
+[17:17:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:17:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:17:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:17:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:17:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:17:10] [Server thread/INFO]: Preparing level "world"
+[17:17:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:17:12] [Server thread/INFO]: Time elapsed: 1517 ms
+[17:17:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:17:14] [Server thread/INFO]: Time elapsed: 1706 ms
+[17:17:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:17:14] [Server thread/INFO]: Time elapsed: 205 ms
+[17:17:14] [Server thread/INFO]: [TradePro] Enabling TradePro v2.0
+[17:17:14] [Server thread/INFO]: [TradePro] config.yml already exists, skipping creation.
+[17:17:14] [Server thread/INFO]: [TradePro] lang.yml already exists, skipping creation.
+[17:17:14] [Server thread/INFO]: [TradePro] gui.yml already exists, skipping creation.
+[17:17:14] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Detected Minecraft version: 121
+[17:17:14] [TaskChainAsyncQueue Thread 0/INFO]: §a[TradePro] Sounds loaded successfully!
+[17:17:15] [Server thread/INFO]: [TradePro] TradePro has started successfully!
+[17:17:15] [Server thread/INFO]: [spark] Starting background profiler...
+[17:17:15] [Server thread/INFO]: Done preparing level "world" (5.316s)
+[17:17:15] [Server thread/INFO]: Running delayed init tasks
+[17:17:15] [Server thread/INFO]: §a[TradePro] Sounds loaded successfully!
+[17:17:16] [Craft Scheduler Thread - 3 - TradePro/INFO]: [TradePro] Plugin is up to date.
+[17:17:16] [Server thread/INFO]: [TradePro] Web panel is disabled in config.yml
+[17:17:16] [Server thread/INFO]: Done (21.219s)! For help, type "help"
+[17:17:16] [Server thread/INFO]: Timings Reset
+[17:17:27] [User Authenticator #0/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
+[17:17:29] [Server thread/INFO]:  [GORDA] orxaatita joined the game
+[17:17:29] [Server thread/INFO]: orxaatita[/127.237.225.253:40537] logged in with entity id 27 at ([world]-311.5, 64.0, -80.5)
+[17:21:59] [Server thread/INFO]: You whisper to  [GORDA] orxaatita: no te mueraaaas
