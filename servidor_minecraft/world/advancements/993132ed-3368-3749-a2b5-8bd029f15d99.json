@@ -12,6 +12,7 @@
       "minecraft:sparse_jungle": "2025-03-14 22:35:04 +0000",
       "minecraft:jungle": "2025-03-14 22:41:12 +0000",
       "minecraft:river": "2025-03-14 22:29:36 +0000",
+      "minecraft:meadow": "2025-03-28 17:45:01 +0000",
       "minecraft:birch_forest": "2025-03-16 22:25:21 +0000",
       "minecraft:lush_caves": "2025-03-16 13:27:18 +0000",
       "minecraft:dripstone_caves": "2025-03-14 23:01:26 +0000",
@@ -304,6 +305,7 @@
       "rotten_flesh": "2025-03-14 23:22:22 +0000",
       "cooked_mutton": "2025-03-14 22:45:50 +0000",
       "cooked_cod": "2025-03-18 22:13:22 +0000",
+      "cooked_beef": "2025-03-28 17:49:43 +0000",
       "melon_slice": "2025-03-14 23:22:44 +0000",
       "cooked_salmon": "2025-03-18 23:26:44 +0000"
     },
@@ -2841,6 +2843,24 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-28 17:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-03-28 17:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-03-28 17:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-03-28 17:55:21 +0000"
     },
     "done": true
   },
