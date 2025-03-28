@@ -65,3 +65,11 @@
 [18:14:09] [User Authenticator #2/INFO]: UUID of player orxaatita is 993132ed-3368-3749-a2b5-8bd029f15d99
 [18:14:10] [Server thread/INFO]:  [GORDA] orxaatita joined the game
 [18:14:10] [Server thread/INFO]: orxaatita[/127.237.225.253:58255] logged in with entity id 7544 at ([world]-730.1348255086278, 71.0, -390.3313050552842)
+[18:26:02] [User Authenticator #3/INFO]: UUID of player Beniwiner is 833e295a-5f6f-3e42-9c5e-88996f93810f
+[18:26:03] [Server thread/INFO]: Beniwiner joined the game
+[18:26:03] [Server thread/INFO]: Beniwiner[/127.106.156.117:49607] logged in with entity id 8851 at ([world]-335.9922654318767, 64.0, -72.36763956456166)
+[18:26:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Beniwiner> -335 -72
+[18:26:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Beniwiner> ya ta
+[18:26:27] [Server thread/INFO]: Beniwiner lost connection: Disconnected
+[18:26:27] [Server thread/INFO]: Beniwiner left the game
+[18:26:38] [Async Chat Thread - #2/INFO]: [Not Secure] <orxaatita> -335 -72
