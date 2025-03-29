@@ -528,6 +528,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-03-29 23:01:04 +0000",
       "minecraft:skeleton": "2025-03-14 22:50:09 +0000",
       "minecraft:spider": "2025-03-14 22:43:25 +0000",
       "minecraft:zombie": "2025-03-14 23:12:22 +0000",
@@ -2564,6 +2565,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-03-29 22:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-29 23:01:04 +0000"
     },
     "done": true
   },
